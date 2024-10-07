@@ -4,7 +4,9 @@ void add()
 {
   printf("addition");
 }
-void sub()
+void sub(){
+ printf("substraction");
+}
 void mul()
 void div()
 }
