@@ -9,6 +9,7 @@ void sub(){
 }
 void mul(){
 	printf("multiplication");
-}
-void div()
+	}
+void div(){
+	printf("division");
 }
