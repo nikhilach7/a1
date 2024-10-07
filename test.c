@@ -7,6 +7,8 @@ void add()
 void sub(){
  printf("substraction");
 }
-void mul()
+void mul(){
+	printf("multiplication");
+}
 void div()
 }
