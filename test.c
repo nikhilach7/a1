@@ -7,6 +7,8 @@ void add()
   printf("addition");
 } 
 void sub(){
+	int diff;
+	diff=a-b;
  printf("substraction");
 }
 void mul(){
